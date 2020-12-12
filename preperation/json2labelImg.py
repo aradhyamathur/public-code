@@ -2,7 +2,7 @@
 #
 
 # python imports
-from anue_labels import name2label
+from idd_labels import name2label
 from annotation import Annotation
 import os
 import sys
